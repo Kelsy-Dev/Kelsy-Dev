@@ -1,4 +1,5 @@
 ### Hi! I'm Kelsy
+<hr>
 
    [![GitHub Streak](https://streak-stats.demolab.com/?user=Kelsy-Dev)](https://git.io/streak-stats)
    
