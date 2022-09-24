@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm Kelsy
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kelsy-Dev)](https://git.io/streak-stats)
+
 
 <!--
 **Kelsy-Dev/Kelsy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
