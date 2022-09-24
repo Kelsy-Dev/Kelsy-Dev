@@ -1,6 +1,6 @@
 ### Hi! I'm Kelsy
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kelsy-Dev)](https://git.io/streak-stats)
+                       [![GitHub Streak](https://streak-stats.demolab.com/?user=Kelsy-Dev)](https://git.io/streak-stats)
 
 
 <!--
