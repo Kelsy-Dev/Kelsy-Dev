@@ -2,7 +2,7 @@
 
    [![GitHub Streak](https://streak-stats.demolab.com/?user=Kelsy-Dev)](https://git.io/streak-stats)
    
-	https://pin.it/4p840Ue
+https://pin.it/4p840Ue
    
 
 
