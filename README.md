@@ -6,7 +6,7 @@
 
 - 💻  I love coding and designing web applications
 - 🌱  I’m currently learning **React**
-- 👩‍🎨  In my free time, I work on my personal project
+- 👩‍🎨  In my free time, I work on my personal projects
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
