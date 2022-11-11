@@ -22,9 +22,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kelsy-Dev&theme=dark&show_icons=true&locale=en&layout=compact" alt="terka-codes" width="400px"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kely-Dev&theme=dark&show_icons=true&locale=en&layout=compact" alt="terka-codes" width="400px"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelsy-Dev&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="410px" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kely-Dev&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="410px" /></p>
 
 
 [Source of the GIF](https://tenor.com/view/aesthetic-wallpaper-gif-24827736?utm_source=share-button&utm_medium=Social&utm_content=pinterest)
