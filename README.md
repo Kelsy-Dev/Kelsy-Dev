@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" style="border-radius: 20px"/>
+<img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"/>
 
 <h1>Hi! I'm Kelsy</h1>
 
@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelsy-Dev&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="410px" /></p>
 
 
-[Source of the GIF](https://tenor.com/view/aesthetic-wallpaper-gif-24827736?utm_source=share-button&utm_medium=Social&utm_content=pinterest)
+[Source of the GIF](https://www.pinterest.com/pin/18507048459995266/)
