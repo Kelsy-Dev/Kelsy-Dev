@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" id="gif" width="380" src="(https://www.pinterest.com/pin/18507048459995266/)"/>
+<img align="right" alt="Coding" id="gif" width="380" src="(https://www.pinterest.com/pin/18507048459995266/)">
 
 <h1>Hi! I'm Kelsy</h1>
 
