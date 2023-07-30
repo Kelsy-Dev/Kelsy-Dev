@@ -22,7 +22,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kelsy-Dev&theme=dark&show_icons=true&locale=en&layout=compact" alt="terka-codes" width="410px"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kelsy-Dev&theme=dark&show_icons=true&locale=en&layout=compact" alt="terka-codes" width="400px"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelsy-Dev&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="410px" /></p>
 
