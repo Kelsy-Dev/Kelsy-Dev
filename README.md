@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" style="border-radius: 10px"/>
+<img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" style="border-radius: 20px"/>
 
 <h1>Hi! I'm Kelsy</h1>
 
