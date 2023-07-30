@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" id="gif" width="380" src="[https://c.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif](https://www.pinterest.com/pin/18507048459995266/)" style="border-radius: 10px" />
+<img align="right" alt="Coding" id="gif" width="380" src="(https://www.pinterest.com/pin/18507048459995266/)" style="border-radius: 10px" />
 
 <h1>Hi! I'm Kelsy</h1>
 
